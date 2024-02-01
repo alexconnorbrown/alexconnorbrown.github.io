@@ -19,5 +19,13 @@ select {
 }
 
 h1 {
+    font-family: 'Roboto', sans-serif; /* Changed to Roboto */
     font-weight: bold;
 }
+
+#mainHeader {
+    font-size: 24px; /* Adjust size as needed */
+    font-weight: bold;
+    /* Add additional styling as desired */
+}
+
