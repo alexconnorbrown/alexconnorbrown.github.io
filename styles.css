@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto Mono', monospace; /* Fallback for Apple system font */
+    background-color: #f7f7f7; /* Slightly warm gray background */
+    color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+select {
+    margin-top: 20px;
+}
+
+.city-info {
+    margin: 20px auto;
+    width: 60%;
+    border: 1px solid #333; /* Thin off-black border */
+    padding: 20px;
+}
+
+h1 {
+    font-weight: bold;
+}
